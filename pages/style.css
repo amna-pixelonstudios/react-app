@@ -1,0 +1,73 @@
+/* *{
+  margin:0;
+  padding: 0;
+}
+.navbar_left{
+  height:100px;
+  width:50%; 
+  position: absolute;
+  left:0%;
+  display: inline;
+}
+.navbar_left h3{
+  position: absolute;
+  top:30px;
+  left:15%;
+  font-size: 48px;
+  font-family: sans-serif;
+}
+.navbar_left h3 a{
+  text-decoration: none;
+  color:black;
+}
+.navbar_right{
+  height:100px;
+  width:50%; 
+  position: absolute;
+  right:0%;
+  display: inline;
+}
+.navbar_right ul{
+  list-style-type: none;
+}
+.navbar_right ul li{
+  display: inline-flex;
+  padding: 30px;
+  margin-left: 20px;
+}
+.navbar_right ul li a{
+  text-decoration: none;
+  font-size: 24pt;
+  font-family: sans-serif;
+  color:black;
+}
+.navbar_right ul li a:hover{
+  border-bottom: 3px solid black;
+  transition: 0.8s ease;
+}
+
+.page{
+  height:100%;
+  width:100%;
+  text-align: center;
+  padding-top: 10%;
+  font-size: 48pt;
+}
+input[type="text"],
+input[type="email"]
+{
+    background-color: #fff;
+    color: #000;
+    width: 50%;
+    height:20px;
+    padding:10px;
+}
+button[type="submit"]{
+    background-color: #000;
+    color: #fff;
+    width: 50%;
+    height:70px;
+    margin-top: 50px;
+    font-size: 24pt;
+    padding: 20px;
+} */
